@@ -1,3 +1,3 @@
 <?php
-	phpinfo();
+	dfsf phpinfo();
 ?>
